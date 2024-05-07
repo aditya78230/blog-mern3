@@ -9,8 +9,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Tech Academy",
-  "license": "ISC",
+  "author": "Aditya Jadhav",
+  "license": "ADI",
   "dependencies": {
     "express": "^4.18.1",
     "mongodb": "^4.7.0"
